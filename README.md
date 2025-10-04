@@ -1,3 +1,3 @@
-# New Py
+## What's this?
 
-A collection of helpful resources, guides, and materials to get you started with Python and explore useful software tools.
+This repository provides key information about the organization, displayed on its GitHub homepage.
